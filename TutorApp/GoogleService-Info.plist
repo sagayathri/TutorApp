@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>589732251760-h9mhpl8feg9nke1ngkg05nde3v025qn0.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.589732251760-h9mhpl8feg9nke1ngkg05nde3v025qn0</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCR3c1kr0ke9lWiauxoZelEVNlT5sCkBb4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>589732251760</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.gayathriarumugam.TutorApp</string>
+	<key>PROJECT_ID</key>
+	<string>sophia-7882d</string>
+	<key>STORAGE_BUCKET</key>
+	<string>sophia-7882d.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:589732251760:ios:a4193083a717851ffd4cb5</string>
+	<key>DATABASE_URL</key>
+	<string>https://sophia-7882d.firebaseio.com</string>
+</dict>
+</plist>
